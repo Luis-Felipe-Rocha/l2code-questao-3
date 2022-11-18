@@ -15,6 +15,8 @@
 O _Banco Central de Financiamentos_ é um problema proposto na Avaliação Técnica do Programa
 de Desenvolvedores Trainees da L2Code, na qual o objetivo é estruturar um banco de dados e realizar consultas com regras específicas
 
+O arquivo [./postgres_scripts/create_db.sql](./postgres_scripts/create_db.sql) contém o script de estruturação e população do banco, e o arquivo [./postgres_scripts/selections.sql](./postgres_scripts/selections.sql) contém as querys solicitadas
+
 ### Modelagem do banco
 
 ![Imagem](./public/db.png)
